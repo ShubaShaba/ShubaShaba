@@ -2,7 +2,10 @@
 
 ### 🎮 Developed Games
 
-[TALL-I] (https://github.com/ShubaShaba/tall-i)
+#### TALL-I
+First-person puzzle game heavily inspired by Portal game series, with the key mechanic centered around time-bending abilities.
+
+![Alt text](/Screenshots/{5699C62C-5232-4AEB-9219-D548E810A213}.png "First chamber: cube and a pressure plate")
 
 
 <!--
