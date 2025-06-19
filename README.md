@@ -1,5 +1,5 @@
 ## Hi, I am Danylo 👋 and I am a game developer
-### 🎮 Developed Games
+### 🚩 I’m currently working on
 
 #### ![TALL-I](https://github.com/ShubaShaba/tall-i)
 First-person puzzle game heavily inspired by Portal game series, with the key mechanic centered around time-bending abilities.
@@ -11,6 +11,7 @@ First-person puzzle game heavily inspired by Portal game series, with the key me
   </tr>
 </table>
 
+### 🎮 Game Jam Projetcs
 
 <!--
 **ShubaShaba/ShubaShaba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
