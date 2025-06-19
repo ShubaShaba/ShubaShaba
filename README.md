@@ -4,6 +4,14 @@
 
 #### TALL-I
 First-person puzzle game heavily inspired by Portal game series, with the key mechanic centered around time-bending abilities.
+
+<table>
+  <tr>
+    <td><img src="/{5699C62C-5232-4AEB-9219-D548E810A213}.png" width="40%"/><br/><a href="#">Project 1</a></td>
+    <td><img src="/{F86140D5-00FA-4B11-A096-4554D5488178}.png" width="40%"/><br/><a href="#">Project 2</a></td>
+  </tr>
+</table>
+
 | | |
 |-|-|
 |![Alt text](/{5699C62C-5232-4AEB-9219-D548E810A213}.png) | ![Alt text](/{F86140D5-00FA-4B11-A096-4554D5488178}.png) |
