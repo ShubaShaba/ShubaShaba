@@ -5,7 +5,7 @@
 #### TALL-I
 First-person puzzle game heavily inspired by Portal game series, with the key mechanic centered around time-bending abilities.
 
-![Alt text](/{5699C62C-5232-4AEB-9219-D548E810A213}.png "First chamber: cube and a pressure plate")
+| ![Alt text](/{5699C62C-5232-4AEB-9219-D548E810A213}.png "First chamber: cube and a pressure plate") | ![Alt text](/{F86140D5-00FA-4B11-A096-4554D5488178}.png "Time bending mechnaic: a cube is frozen in time") |
 
 
 <!--
