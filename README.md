@@ -12,6 +12,15 @@ First-person puzzle game heavily inspired by Portal game series, with the key me
 </table>
 
 ### 🎮 Game Jam Projetcs
+#### ![Kitchen Runner](https://github.com/ShubaShaba/Kitchen-Runner)
+A small first-person parkour runner game developed during a 48 hours Game Jam.   
+
+<table>
+  <tr>
+    <td><img src="/{E89A412F-5DE2-4779-B740-77D97A2B5286}.png" width="100%"/><br/></td>
+    <td><img src="/{DE00737E-B5E7-4A29-A215-E5D3832FFAEB}.png" width="100%"/><br/></td>
+  </tr>
+</table>
 
 <!--
 **ShubaShaba/ShubaShaba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
