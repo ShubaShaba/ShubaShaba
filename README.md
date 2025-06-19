@@ -1,8 +1,7 @@
-# Hi, I am Danylo 👋 and I am a game developer
+## Hi, I am Danylo 👋 and I am a game developer
+### 🎮 Developed Games
 
-## 🎮 Developed Games
-
-### ![TALL-I](https://github.com/ShubaShaba/tall-i)
+#### ![TALL-I](https://github.com/ShubaShaba/tall-i)
 First-person puzzle game heavily inspired by Portal game series, with the key mechanic centered around time-bending abilities.
 
 <table>
