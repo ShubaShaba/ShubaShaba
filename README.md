@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hi, I am Danylo 👋 and I am a game developer
+
+### 🎮 Developed Games
+
+[TALL-I] (https://github.com/ShubaShaba/tall-i)
+
 
 <!--
 **ShubaShaba/ShubaShaba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
