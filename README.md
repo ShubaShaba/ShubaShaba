@@ -1,6 +1,6 @@
 ## Hi, I am Danylo 👋 and I am a software engineer
-### 🚩 I’m currently working on my own game (Unity/C#)
 
+<!--
 #### ![TALL-I](https://github.com/ShubaShaba/tall-i)
 First-person puzzle game heavily inspired by Portal game series, with the key mechanic centered around time-bending abilities.
 
@@ -10,6 +10,7 @@ First-person puzzle game heavily inspired by Portal game series, with the key me
     <td><img src="/{F86140D5-00FA-4B11-A096-4554D5488178}.png" width="100%"/><br/></td>
   </tr>
 </table>
+-->
 
 <!--
 **ShubaShaba/ShubaShaba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
